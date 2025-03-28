@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Gold price service" />
+			<Item Name="ServiceMethods.Method1.Caption" Value="/api/Rate/Gold" />
+			<Item Name="ServiceMethods.Method1.Response.Parameters.CSList.Caption" Value="CashSellList" />
+			<Item Name="ServiceMethods.Method1.Response.Parameters.CSList.ItemProperties.CSLRate.Caption" Value="Rate" />
+			<Item Name="ServiceMethods.Method1.Response.Parameters.CSList.ItemProperties.CSLWeight.Caption" Value="Weight" />
+		</Items>
+	</Group>
+</Resources>
